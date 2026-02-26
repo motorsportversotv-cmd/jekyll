@@ -1,13 +1,11 @@
 ---
-title: Posts
+title: Motorsportverso2 Posts
 permalink: /docs/posts/
 redirect_from:
   - /docs/drafts/
 ---
 
-Blogging is baked into Jekyll. You write blog posts as text files and Jekyll
-provides everything you need to turn it into a blog.
-
+Esse blog será mais um braço , junto ao Instagram,Youtube, site do tublr e Fcaebook 
 ## The Posts Folder
 
 The `_posts` folder is where your blog posts live. You typically write posts
@@ -70,15 +68,7 @@ I hope you like it!
   </p>
 </div>
 
-## Including images and resources
 
-At some point, you'll want to include images, downloads, or other
-digital assets along with your text content. One common solution is to create
-a folder in the root of the project directory called something like `assets`,
-into which any images, files or other resources are placed. Then, from within
-any post, they can be linked to using the site’s root as the path for the asset
-to include. The best way to do this depends on the way your site’s (sub)domain
-and path are configured, but here are some simple examples in Markdown:
 
 Including an image asset in a post:
 
@@ -96,7 +86,7 @@ Linking to a PDF for readers to download:
 ## Displaying an index of posts
 
 Creating an index of posts on another page should be easy thanks to
-[Liquid](https://shopify.github.io/liquid/) and its tags. Here’s a
+[Welcome]
 simple example of how to create a list of links to your blog posts:
 
 {% raw %}
